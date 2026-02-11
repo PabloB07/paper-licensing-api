@@ -1,0 +1,6 @@
+name: PaperLicensingAPI
+version: '${project.version}'
+main: com.blancocl.licensing.LicensingApiPlugin
+api-version: '1.21'
+authors: [blancocl]
+description: Shared license validation service for Paper plugins.
